@@ -36,3 +36,54 @@ header {
     font-weight: 500;
 }
 
+
+/* Banner Styles */
+.banner-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.banner-title {
+    font-size: 56px;
+}
+
+.banner-title-tomato {
+    color: rgb(255, 131, 103);
+}
+
+.banner-subtitle {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.primary-btn {
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    background: linear-gradient(rgb(255, 128, 99),rgb(244, 96, 96));
+    color: white;
+    cursor: pointer;
+}
+
+.primary-btn:hover {
+    background: linear-gradient(rgb(255, 128, 99),rgb(244, 96, 96));
+    color: white;
+    transition: 0.5s;
+    box-shadow: 0 0 10px rgb(255, 131, 103);
+}
+
+.banner-right-side,
+.about-left-side {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.banner-right-side img,
+.about-left-side img {
+    width: 350px;
+}
