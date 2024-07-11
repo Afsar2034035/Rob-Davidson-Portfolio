@@ -167,3 +167,29 @@ header {
     margin-bottom: 10px;
 }
 
+
+/* Work Inquiry Styles */
+.work-container {
+    padding: 75px 85px;
+}
+
+.work-banner {
+    background-image: url('../shapes/group_33094_1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 750px;
+    margin: 0 auto;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.work-title {
+    color: white;
+    font-size: 46px;
+    text-transform: uppercase;
+}
