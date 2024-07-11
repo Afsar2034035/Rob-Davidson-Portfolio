@@ -87,3 +87,36 @@ header {
 .about-left-side img {
     width: 350px;
 }
+
+
+/* About Styles */
+.about-container {
+    width: 1070px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.about-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about-title {
+    text-transform: uppercase;
+    font-size: 32px;
+    color: rgb(54, 57, 88);
+}
+
+.about-right-side {
+    width: 40%;
+    margin-left: 150px;
+    margin-top: 45px;
+}
+
+.about-description {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
