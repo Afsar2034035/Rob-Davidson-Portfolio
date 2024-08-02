@@ -53,6 +53,7 @@
 <h2 align="center">
   <img src="https://github.com/MdAfsarHossain/Rob-Davidson-Portfolio/blob/main/images/about.png" alt="Header" width="100%">
 </h2>
+
 ```html
 <!-- About Section -->
                 <section class="about-container">
@@ -71,6 +72,7 @@
                         </div>
                     </div>
                 </section>
+				
 ```
 
 
