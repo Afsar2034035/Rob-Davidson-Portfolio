@@ -54,6 +54,27 @@
   <img src="https://github.com/MdAfsarHossain/Rob-Davidson-Portfolio/blob/main/images/about.png" alt="Header" width="100%">
 </h2>
 
+```html
+<!-- About Section -->
+                <section class="about-container">
+                    <div class="about-content">
+                        <div class="about-left-side">
+                            <img src="images/do_not_use_this_pic2.png" alt="">
+                        </div>
+                        <div class="about-right-side">
+                            <h2 class="about-title">
+                                About
+                            </h2>
+                            <p class="about-description">
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt excepturi fuga porro itaque quaerat sint atque rerum delectus voluptas eos?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor, suscipit! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem, modi.
+                            </p>
+                            <button class="primary-btn">Download CV</button>
+                        </div>
+                    </div>
+                </section>
+				
+```
+
 
 ### Projects
 
